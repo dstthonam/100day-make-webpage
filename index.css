@@ -1,0 +1,31 @@
+h1 {
+  font-family: 'Bagel Fat One', cursive;
+  font-family: 'Black Han Sans', sans-serif;  
+  text-align: center;
+  font-size: 44px;
+  font-weight: 70;
+  color: rgb(255, 0, 0);
+}
+
+p {
+  font-family: 'Bagel Fat One', cursive;
+  font-family: 'Black Han Sans', sans-serif;  
+  text-align: center;
+  color: rgba(78, 77, 77, 0.89);
+}
+
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#big-title {
+  color: rgb(152, 72, 6);
+  font-family: 'Bagel Fat One', sans-serif;
+  font-size: 40px;
+  font-weight: 70;
+}
