@@ -1,7 +1,18 @@
+body{
+  text-align: center;
+  background-color: rgb(206, 196, 151);
+  margin: 50px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
 h1 {
   font-family: 'Bagel Fat One', cursive;
   font-family: 'Black Han Sans', sans-serif;  
-  text-align: center;
   font-size: 44px;
   font-weight: 70;
   color: rgb(255, 0, 0);
@@ -10,7 +21,6 @@ h1 {
 p {
   font-family: 'Bagel Fat One', cursive;
   font-family: 'Black Han Sans', sans-serif;  
-  text-align: center;
   color: rgba(78, 77, 77, 0.89);
 }
 
@@ -29,3 +39,7 @@ a:hover {
   font-size: 40px;
   font-weight: 70;
 }
+
+
+
+
