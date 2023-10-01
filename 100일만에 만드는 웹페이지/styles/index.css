@@ -1,0 +1,20 @@
+body{
+  margin: 50px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+
+#big-title {
+  color: rgb(152, 72, 6);
+  font-family: 'Bagel Fat One', sans-serif;
+  font-size: 40px;
+  font-weight: 70;
+}
+
+
+
+
