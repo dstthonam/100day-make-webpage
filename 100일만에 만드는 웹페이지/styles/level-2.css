@@ -5,11 +5,11 @@ header{
 h1 {
   font-size: 48px;
   color: rgb(100, 93, 93);
-  margin: 12px 0;
+  margin: 0px 0;
 }
 
 #description-1 {
-  margin: 8px;
+  margin: 12px;
   margin-bottom: 0px;
 }
 
@@ -25,7 +25,7 @@ a {
   border-radius: 12px;
   font-size: 24px;
   display: inline-block;
-  margin: 12px 0;
+  margin: 0px 0;
 }
 
 a:hover {
@@ -43,11 +43,12 @@ ol {
 li{
   padding: 36px;
   margin: 32px;
-  background-color: rgb(223, 136, 124);
+  background-color: rgb(223, 148, 138);
   border-radius: 6px;
+  box-shadow: 2px 2px 4px rgb(0,0,0,0.2);
 }
 h2{
-  color: rgb(209, 91, 36);
+  color: rgb(201, 95, 46);
   font-family: 'Bagel Fat One', sans-serif;
 }
 
@@ -57,5 +58,5 @@ h2{
 } */
 
 .highlight-goal {
-  background-color: rgb(202, 103, 90);
+  background-color: rgb(199, 118, 107);
 }
