@@ -2,7 +2,6 @@ body{
   text-align: center;
   background-color: rgb(206, 196, 151);
   color: rgb(17, 16, 22);
-  margin: 50px;
 }
 
 h1{
@@ -13,16 +12,14 @@ h1{
 
 p{
   margin-bottom: 48px;
-  font-size: 24x;
+  font-size: 20px;
   font-family: 'Black Han Sans', sans-serif;  
-
 }
 
 a{
   font-family: 'Black Han Sans', sans-serif; 
   text-decoration: none; 
   color: rgb(204, 17, 17);
-
 }
 
 a:hover {
